@@ -13,7 +13,7 @@ BlazorWebView uses some of the same code as [Steve Sanderson's WebWindow](https:
 
 ### Using a Linux terminal
 ```
-git clone https://github.com/JinShil/BlazorWebView.git
+git clone https://github.com/renick/BlazorWebView.git
 cd WebKitGtk/WebKitGtk.Test
 dotnet run
 ```
@@ -22,7 +22,7 @@ dotnet run
 On a Linux computer, simply open this repository in Visual Studio Code and press F5 to start a debug session.
 
 ## Usage
-See the project in [WebKitGtk.Test](https://github.com/JinShil/BlazorWebView/tree/main/WebKitGtk.Test) for an example illustrating how to create a Blazor Hybrid application using the BlazorWebView.
+See the project in [WebKitGtk.Test](https://github.com/renick/BlazorWebView/tree/main/WebKitGtk.Test) for an example illustrating how to create a Blazor Hybrid application using the BlazorWebView.
 
 ## Status
 This poject was tested on Windows Subsystem for Linux, Raspberry Pi Bullseye 64-bit, and Debian Bullseye 64-bit.  
